@@ -3,7 +3,7 @@
 ![Cover](Images/cover.png)
 
 ##  Description
-This project analyzes pizza sales data using SQL to extract key business insights, identify customer behavior patterns, and evaluate product performance. The goal is to support data-driven business decisions through structured query analysis.
+This project analyzes pizza sales data using SQL to extract key business insights, identify customer behavior patterns, and evaluate product performance. The goal is to support data-driven business decisions through structured query analysis
 
 ##  Tools Used
 - Microsoft SQL Server
