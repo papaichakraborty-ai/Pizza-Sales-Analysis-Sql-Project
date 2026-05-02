@@ -25,25 +25,19 @@ This project analyzes pizza sales data using SQL to extract key business insight
 - Bottom 5 Least-Selling Pizzas
 - Top 5 Highest Value Orders
 
-##  Project Insights
+## Some Glimpses
 
 ### KPI Overview
-![KPI Results](images/kpi_results.png)
+![KPI Results](Images/kpi_results.png)
 
 ### Daily Order Trend
-![Daily Trend](images/daily_trend.png)
-
-### Hourly Order Trend
-![Hourly Trend](images/hourly_trend.png)
-
-### Sales by Category
-![Category Sales](images/category_sales.png)
-
-### Sales by Size
-![Size Sales](images/size_sales.png)
+![Daily Trend](Images/daily_trend.png)
 
 ### Top & Bottom Performing Pizzas
-![Top Bottom](images/top_bottom_pizzas.png)
+![Top Bottom](Images/top_bottom_pizzas.png)
+
+###  Key Insights & Solutions
+![Key Insights & Solutions](Images/insights_solutions.png)
 
 ##  Key Insights
 - The Average Order Value (AOV) is 38.31, indicating moderate customer spending per order.
